@@ -1,0 +1,14 @@
+.dark,
+.yell {
+  font-size: 28px;
+  font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.dark {
+  background-color: #000;
+  color: #fff;
+}
+
+.yell {
+  background-color: #ffff00;
+}
